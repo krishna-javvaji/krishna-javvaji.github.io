@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Krishna's Portfolio</h1>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>[Your introduction]I'm Krishna Javvaji, and my career is fueled by curiosity and a relentless pursuit of excellence in the world of data analytics and technology. With a track record of successfully translating complex technical concepts into actionable insights, I thrive on solving challenges and making a real impact.
+
+What I Bring to the Table:
+
+Data Whisperer: I specialize in turning data into actionable intelligence, driving informed decision-making for organizations.
+Tech Alchemist: I bridge the gap between business needs and technology solutions, ensuring alignment and success.
+Innovation Evangelist: I'm passionate about staying at the forefront of emerging technologies and trends, always ready to lead and adapt.
+My Vision:
+I envision a future where data-driven strategies empower businesses to reach new heights, and I'm committed to making that vision a reality. Together, let's explore the limitless possibilities of data and technology!
+						</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <!-- Project Details Here -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <!-- Contact Information -->
+    </section>
+
+    <footer>
+        <p>Copyright © Krishna Javvaji 2023</p>
+    </footer>
+</body>
+</html>
